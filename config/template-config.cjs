@@ -14,7 +14,7 @@ const TEMPLATE_CONFIG = [
       
       天气：{{tian_api_weather_weather_0.DATA}}
       
-      气温(最高/最低):{{tian_api_weather_highest_0.DATA}} / {{tian_api_weather_weather_0.DATA}}
+      气温(最高/最低):{{tian_api_weather_highest_0.DATA}} / {{tian_api_weather_lowest_0.DATA}}
       
       风向: {{tian_api_weather_wind_0.DATA}}
       
