@@ -20,7 +20,15 @@ const TEMPLATE_CONFIG = [
       
       风级: {{tian_api_weather_windsc_0.DATA}}
       
+      ---
+      星座运势：
       {{comprehensive_horoscope.DATA}}
+      
+      ---
+      
+      每日一句：
+      {{note_en.DATA}}
+      {{note_ch.DATA}}
       
       ---
       
