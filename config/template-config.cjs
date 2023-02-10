@@ -27,6 +27,7 @@ const TEMPLATE_CONFIG = [
       ---
       
       每日一句：
+      
       {{note_en.DATA}}
       
       {{note_ch.DATA}}
