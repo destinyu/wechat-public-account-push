@@ -28,6 +28,7 @@ const TEMPLATE_CONFIG = [
       
       每日一句：
       {{note_en.DATA}}
+      
       {{note_ch.DATA}}
       
       ---
@@ -40,6 +41,9 @@ const TEMPLATE_CONFIG = [
       
       么么哒！
       
+      请闭眼默念三遍：我是最棒的！我是最棒的！我是最棒的！
+      
+      相信自己，大胆向前~
       ---
     `
   },
